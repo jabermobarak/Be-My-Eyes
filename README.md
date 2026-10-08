@@ -145,9 +145,10 @@ Native dependency or build configuration updates may be needed when using newer 
 ## Author
 
 **Jaber Mobarak**
+
 ## Report
 
-[Read the project report](Be my eyes report.pdf)
+[Read the project report](Be_My_Eyes_Report.pdf)
 [GitHub](https://github.com/jabermobarak)
 https://github.com/jabermobarak/Be-My-Eyes/assets/150077156/fdcc68d2-b7b4-4021-8cde-dfd6a15f855e
 
